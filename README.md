@@ -1,2 +1,2 @@
 # github-oddman
-for tutorial pursjpose
+for tutorial purpose
