@@ -1,2 +1,2 @@
 # github-oddman
-E bill project
+for tutorial pursjpose
